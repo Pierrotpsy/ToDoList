@@ -8,14 +8,20 @@ The goal of the project was to create a simple app capable of displaying to do i
 
 The application is capable of :
 - Implementing JAAS authentication and authorization through login to secure application access and functionalities to specific users. There are two roles : **Teacher** and **Student**.
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 - Retrieving a list of to do items from a database and displaying it (**Teacher** & **Student**). 
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 - Editing an existing to do item (**Teacher** only).
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 - Adding a new to do item (**Teacher** only).
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 - Deleting a to do item (**Teacher** only).
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 - Implementing cookies to remember the last user's username at next login.
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 - Allowing the user to log out at any time.
 - Remembering the user's username throughout his use of the app.
-
+![No image](https://github.com/Pierrotpsy/Student-List/blob/main/media/screen_studentlist.PNG)
 ## Non-implemented features
 All the features asked for in the project description have been implemented.
 
