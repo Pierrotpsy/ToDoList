@@ -25,6 +25,8 @@ The application is capable of :
 - Remembering the user's username throughout his use of the app.
 ![No image](https://github.com/Pierrotpsy/ToDoList-WebApp/blob/main/Media/usernameAndlogout.PNG)
 
+Video demonstration : (https://github.com/Pierrotpsy/Student-List/blob/main/media/Student-list%20app%20demo.mp4)
+
 ## Non-implemented features
 All the features asked for in the project description have been implemented.
 
