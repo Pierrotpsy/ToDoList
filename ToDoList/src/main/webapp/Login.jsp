@@ -3,21 +3,21 @@
 <!DOCTYPE html>
 <HTML>
 	<HEAD>
-		<TITLE> AUTHENTIFICATION avec Formulaire JAAS </TITLE>
+		<TITLE> JAAS Authentication </TITLE>
 	</HEAD>
 	
 	<body>
 		<div align="center">
-			<h1>Veuillez vous identifier</h1>
+			<h1>Please log in</h1>
 		</div>
 		<form method="POST" action="j_security_check">
 			<table align="center">
 				<tr>
-					<td>Login :</td>
+					<td>Username :</td>
 					<td><input type="text" name="j_username" value=${username}></td>
 				</tr>
 				<tr>
-					<td>Mot de passe :</td>
+					<td>Password :</td>
 					<td><input type="password" name="j_password" value=""></td>
 				</tr>
 				<tr>

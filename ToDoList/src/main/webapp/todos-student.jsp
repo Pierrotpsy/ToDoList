@@ -9,8 +9,13 @@
 	<!-- ${TODO_LIST}-->
 	<div id="wrapper">
 		<div id="header">
-			<a href=LogoutServlet style="color:white;float:right">Logout</a>
-			<h2>To do List - ${sessionScope.username}</h2>
+			<a href="LogoutServlet" style="color: white; float: right">Logout</a>
+			<h2>Welcome ${sessionScope.username}</h2>
+		</div>
+		<div id="header">
+			<center>
+				<h2>To Do List</h2>
+			</center>
 		</div>
 	</div>
 	<div id="container">

@@ -58,7 +58,7 @@ public class ViewToDoServlet extends HttpServlet {
 			session.setAttribute("username", request.getRemoteUser());
 			
 			Cookie cookie = new Cookie("username", (String)session.getAttribute("username"));
-			cookie.setMaxAge(60*60*24) ; // in seconds, here for 24 hours
+			cookie.setMaxAge(60*60*24) ; 
 			response.addCookie(cookie) ;
 			
 			String role = todoDBUtil.getRole((String)session.getAttribute("username"));

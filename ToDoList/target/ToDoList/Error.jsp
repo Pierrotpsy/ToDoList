@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <HTML>
 	<HEAD>
-		<TITLE> ERREUR!</TITLE>
+		<TITLE> ERROR !</TITLE>
 	</HEAD>
 	
 	<body>
