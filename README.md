@@ -4,7 +4,7 @@ This is a simple web application using a Maven build on a Tomcat v9.0 server and
 
 The goal of the project was to create a simple app capable of displaying to do items and managing them.
 
-To test the webapp, simply copy `ToDoList.war` to the *webapps* folder of your tomcat server and start it. You should be able to access the app on *localhost:8080/ToDoList*.
+To test the webapp, simply copy `ToDoList.war` to the *webapps* folder of your tomcat server and start it. You should be able to access the app on *localhost:8080/ToDoList*. You can also use tomcat manager with the same `.war` file.
 
 ## Implemented features
 
@@ -20,8 +20,7 @@ The application is capable of :
 ![No image](https://github.com/Pierrotpsy/ToDoList-WebApp/blob/main/Media/Add.PNG)
 - Deleting a to do item (**Teacher** only).
 ![No image](https://github.com/Pierrotpsy/ToDoList-WebApp/blob/main/Media/Delete.PNG)
-- Implementing cookies to remember the last user's username at next login.
-![No image](https://github.com/Pierrotpsy/ToDoList-WebApp/blob/main/Media/cookie.PNG)
+- Implementing cookies to remember the last user's username at next login.![No image](https://github.com/Pierrotpsy/ToDoList-WebApp/blob/main/Media/cookie.PNG)
 - Allowing the user to log out at any time.
 - Remembering the user's username throughout his use of the app.
 ![No image](https://github.com/Pierrotpsy/ToDoList-WebApp/blob/main/Media/usernameAndlogout.PNG)
